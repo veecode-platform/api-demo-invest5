@@ -1,0 +1,8 @@
+site_name: "api-demo-invest5"
+site_description: "api-demo-invest5"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
